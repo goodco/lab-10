@@ -1,0 +1,11 @@
+.bar-chart {
+    padding: 10px;
+    color: brown;
+}
+body{
+    padding: 10px;
+}
+
+.bar-chart rect{
+    fill: #4a2c2a
+}
